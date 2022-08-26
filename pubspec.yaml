@@ -43,7 +43,7 @@ dependencies:
    #path: ../vdotok_stream/
   move_to_background: ^1.0.2
   wakelock: ^0.5.6
-
+  draggable_widget: ^2.0.0
 
 dev_dependencies:
   flutter_test:
